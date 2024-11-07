@@ -1,1 +1,2 @@
-hola esto es una prueba de otro archivo, llamado archivo 2.
+hola esto es una prueba de otro archivo, llamado archivo 2. 
+ahora he hecho un cambio
